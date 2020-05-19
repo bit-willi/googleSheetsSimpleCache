@@ -11,5 +11,11 @@
     "minimum-stability": "stable",
     "require": {
         "google/apiclient": "^2.4"
+    },
+	"autoload": {
+        "files": [
+			"source/functions.php",
+			"source/config.php"
+		]
     }
 }
