@@ -1,0 +1,15 @@
+{
+    "name": "bit/google-sheets-simple-cache",
+    "description": "Simple project for a local cache of a google spreadsheet",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Bit",
+            "email": "willian.souza.ti@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "google/apiclient": "^2.4"
+    }
+}
